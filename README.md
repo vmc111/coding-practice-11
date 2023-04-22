@@ -1,6 +1,7 @@
 In this project, let's build a **Feedback App** by applying the concepts we have learned till now.
 
-<a href='https://vmcfeedback.ccbp.tech/' target="_blank">Feedback App</a>
+<p>View app here: 
+<a href='https://vmcfeedback.ccbp.tech/' target="_blank">Feedback App</a></p>
 
 
 ### Refer to the image below:
