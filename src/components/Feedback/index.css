@@ -1,0 +1,40 @@
+/* Write your CSS code here. */
+.main-container {
+  height: 100vh;
+  width: 100%;
+  background-image: linear-gradient(to right, #ffeeee, #ffebeb, #ffc0bb);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card-main {
+  text-align: center;
+  padding: 4vh 4vw;
+  width: 60vw;
+  background-color: #ffffff;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center-around;
+
+  border-radius: 10px;
+}
+.emoji {
+  height: 60px;
+  width: 60px;
+}
+.emojis-container {
+  margin-top: 2rem;
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
+.emoji-flex {
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
